@@ -6,4 +6,5 @@ setup(name='DescribeLinearModel',
       author='Eugen Iftimoaie',
       author_email='eugen.iftimoaie@gmx.de',
       packages=['DescribeLinearModel'],
+      setup_cfg=True,
       zip_safe=False)
