@@ -219,6 +219,7 @@ class DescribeLinearModel:
         plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
         plt.grid()
         plt.show()
+        plt.close()
 
     def __repr__(self):
 

@@ -1,1 +1,1 @@
-from Describelinearmodel import DescribeLinearModel
+from .Describelinearmodel import DescribeLinearModel
