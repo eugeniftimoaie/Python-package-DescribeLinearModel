@@ -49,14 +49,14 @@ object_name.calculate_slope()
 
 object_name.calculate_intercept()
 ### calculates the y-intercept c of the regression line from all data points
+
 object_name.calculate_r()
-
 ### calculates pearson's correlation coefficient r from all data points
+
 object_name.calculate_r_squared()
-
 ### calculates the coefficient of determination r_squared from all data points
-object_name.plot_scatterplot()
 
+object_name.plot_scatterplot()
 ### outputs a scatterplot including a regression line of the instance variable data object_name
 ```
 
