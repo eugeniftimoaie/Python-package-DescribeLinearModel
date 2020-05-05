@@ -204,6 +204,11 @@ class DescribeLinearModel:
 			None
 		"""
 
+        self.slope_m = self.calculate_slope()
+        self.intercept_c = self.calculate_intercept()
+        self.r = self.calculate_r()
+        self.r_squared = self.calculate_r_squared()
+
         ### plot scatterplot
         fig, ax = plt.subplots()
         ax.scatter(self.x_data, self.y_data, s = 20, label= f'data points\n  r={"%.3f"%(self.r)}')
