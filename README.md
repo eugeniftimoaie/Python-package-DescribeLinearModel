@@ -1,5 +1,4 @@
 # Python package DescribeLinearModel
-[![Build Status](https://travis-ci.org/eugeniftimoaie/Python-package-DescribeLinearModel.png?branch=master)](https://travis-ci.org/eugeniftimoaie/eugeniftimoaie/Python-package-DescribeLinearModel)
 
 Python package with DescribeLinearModel Class for calculating correlation and regression line of data points
 
